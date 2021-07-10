@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a blogApp for creating different articles using different users from scratch.
 
-Things you may want to cover:
+Ruby Version Required:ruby 2.6.3
+Rails Version Requied: Rails 6.1.3.2
 
-* Ruby version
+Install and Run Ruby on Rails:https://github.com/tbsvttr/install-ruby-and-rails
+Install Ruby:https://gist.github.com/janikvonrotz/11215397
 
-* System dependencies
 
-* Configuration
+**ThankYou**
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
